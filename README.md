@@ -1,39 +1,6 @@
-<html>
-  <head>
-    <title>Azure</title>
-  </head>
-  <style>
-  .container {
-    display: flex;
-    align-items: left;
-    justify-content: left;
-  }
-  
-  img {
-    max-width: 10%;
-    max-height:10%;
-    float: left;
-  }
-  
-  .text {
-    font-size: 20px;
-    padding-left: 20px;
-    padding-top: 20%;
-    float: left;
-  }
-
-  </style>
-  <body>
-    <div class="container">
-      <div class="image">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/640px-Microsoft_Azure.svg.png" width="50" height="50">
-      </div>
-      <div class="text">
-        <h1>Projeto AutoML no Azure</h1>
-      </div>
-    </div>
-  </body>
-</html>
+<div class="image">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/640px-Microsoft_Azure.svg.png" width="80" height="80">
+</div>
 
 ## Descrição do Projeto 📚
 
